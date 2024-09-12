@@ -1,8 +1,17 @@
-Anaconda 
-Mysql 
-Streamlit 
-Pandas 
-Plotly == 5.9.0
-Matplotlib 
-Sqlalchemy == 2.0.25
-Numpy 
+anaconda 
+mysql 
+streamlit 
+pandas 
+plotly 
+matplotlib 
+sqlalchemy 
+numpy 
+mysql-connector-python
+# Anaconda 
+# Mysql 
+# Streamlit 
+# Pandas 
+# Plotly == 5.9.0
+# Matplotlib 
+# Sqlalchemy == 2.0.25
+# Numpy 
