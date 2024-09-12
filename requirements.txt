@@ -1,10 +1,9 @@
-anaconda 
-mysql 
 streamlit 
 pandas 
 plotly 
 matplotlib 
 sqlalchemy 
+pymysql
 numpy 
 mysql-connector-python
 # Anaconda 
