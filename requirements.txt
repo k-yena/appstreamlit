@@ -1,0 +1,8 @@
+Anaconda 
+Mysql 
+Streamlit 
+Pandas 
+Plotly == 5.9.0
+Matplotlib 
+Sqlalchemy == 2.0.25
+Numpy 
